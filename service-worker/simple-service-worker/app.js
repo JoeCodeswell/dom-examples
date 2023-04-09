@@ -3,6 +3,7 @@ import { Gallery } from './image-list.js';
 const registerServiceWorker = async () => {
   if ('serviceWorker' in navigator) {
     try {
+      console.log('Service worker registering');
       const registration = await navigator.serviceWorker.register(
         'sw.js',
         {
