@@ -3,13 +3,31 @@
 # Pj Notes
  
 ## top notes
- 
+
+` joedorocak@Joes-Mac-mini simple-service-worker % npx lite-server `
  
  
 **--------------------------------------------**
 **----      commit-todos below here       ----**
 **--------------------------------------------**
  
+## commit-todo 230409_10_28_20_Sun
+### RESULT: Thanks, Holy Trinity. Added `console.log('Service worker registering');` to app.js  - still Works. 
+### TODO
+1. Trust in the Lord, Jesus Who is the Resurrection and the Life.
+2. Set my mindon the Spirit in Truth and Life and Peace,
+3. Let the SAME Mindbe in me that wasin Christ Jesus.
+### DID rev-chron
+#### 2. Added `console.log('Service worker registering');` to app.js _ still works
+#### 1. google: safari develop inspect cache | How do I view cache storage in Safari?
+1. [Resource Caching and Web Inspector Network Tab](https://developer.apple.com/forums/thread/66805)
+2. [View cache activity in Activity Monitor on Mac](https://support.apple.com/en-ie/guide/activity-monitor/actmcdbbd395/mac)
+3. NOT SO HOT [How do I view cache files on Mac? >> Search for: How do I view cache files on Mac?](https://www.avast.com/c-how-to-clear-cache-on-mac)
+  Here's how to access the system cache files on Mac:
+    Open Finder, click Go menu, and select Go to Folder.
+    Type ~/Library/Caches/ in the window and click Go.
+    Your system, or library, caches will appear. ...
+    You can open each folder and delete unneeded cache files by dragging them to the Trash and emptying it.
 ## commit-todo 230409_08_25_19_Sun
 ### RESULT: Thanks, God. simple-service-worker WORKS! Successfully ran simple-service-worker << >> mdn/dom-examples:main.  using `npx lite-server .`
 ### TODO
@@ -25,7 +43,7 @@
 5. vscode added  folder /Users/joedorocak/1d/pwaPjs/dom-examples/service-worker/simple-service-worker/zjoe
 6. Followed README.md >> Running locally
 ```zsh
-oedorocak@Joes-Mac-mini simple-service-worker % npx lite-server
+joedorocak@Joes-Mac-mini simple-service-worker % npx lite-server
 Need to install the following packages:
   lite-server@2.6.1
 Ok to proceed? (y) y
